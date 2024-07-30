@@ -12,3 +12,5 @@ To access and play a video, add a worldcup year between 1990 and 2024 at the end
 To view 1990 world cup top goals add 1990 to the end of the website URL path (``URL/year``) as follows:
 <br>
 ``https://georges034302.github.io/worldcup-top-goals-viewer/1990``
+<br><br>
+[<img src="https://github.com/user-attachments/assets/66623e75-15ae-49d5-8f53-2afbfaf11c8f" width="500" height="380">](https://georges034302.github.io/worldcup-top-goals-viewer/)
