@@ -6,7 +6,7 @@
     padding: 20px;
     width: 25%;
     height: 30%;
-    left: 35%;
+    left: 55%;
     top: 2%;
 }
 
@@ -17,8 +17,8 @@
     padding: 20px;
     width: 25%;
     height: 30%;
-    left: 35%;
-    top: 30%;
+    left: 25%;
+    top: 5%;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -31,7 +31,7 @@
     width: 25%;
     height: 30%;
     left: 35%;
-    top: 60%;
+    top: 40%;
     text-align: justify;
     text-justify: inter-word;
 }
