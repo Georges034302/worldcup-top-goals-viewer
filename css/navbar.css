@@ -61,3 +61,9 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .topnav-right {
+    float: right;
+    color: rgb(249, 253, 0);
+    margin-right: 2%;
+  }
