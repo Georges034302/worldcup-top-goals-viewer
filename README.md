@@ -1,11 +1,11 @@
 ## <a href="https://georges034302.github.io/worldcup-top-goals-viewer/">Football World Cup Top Goals Viewer</a>
-View Football World Cup top goals since 1990
+View Football World Cup top goals since 1966
 
 ---
 
 This page is for football enthusiasts who enjoy watching football and appreciate football history at world cup level.
 <br>
-The purpose of this page is to provide viewers with short view access to top goals scored in world cups between 1990-2022
+The purpose of this page is to provide viewers with short view access to top goals scored in world cups between 1966-2022
 <br><br>
 To access and play a video, select the world cup year from the navbar dropdown menu. this will play an embedded **youtube video**.
 

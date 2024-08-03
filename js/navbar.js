@@ -1,4 +1,22 @@
 $(function () {
+    $("#1966-link").click(function () {
+        $("#Display-frame").attr("src", "https://youtu.be/p-rydGeXKH8?si=OwtQVjbpxzNc51Aj");
+    });
+    $("#1970-link").click(function () {
+        $("#Display-frame").attr("src", "");
+    });
+    $("#1974-link").click(function () {
+        $("#Display-frame").attr("src", "");
+    });
+    $("#1978-link").click(function () {
+        $("#Display-frame").attr("src", "");
+    });
+    $("#1982-link").click(function () {
+        $("#Display-frame").attr("src", "");
+    });
+    $("#1986-link").click(function () {
+        $("#Display-frame").attr("src", "");
+    });
     $("#1990-link").click(function () {
         $("#Display-frame").attr("src", "https://www.youtube.com/embed/ZrInldACPRc?si=AAVNdWR8QIFXtMaV");
     });
