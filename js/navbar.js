@@ -1,6 +1,6 @@
 $(function () {
     $("#home").click(function () {
-        $("#Display-frame").attr("src", "images/player.gif");
+        $("#Display-frame").attr("src", "images/footballer.gif");
     }); 
     $("#1966-link").click(function () {
         $("#Display-frame").attr("src", "https://www.youtube.com/embed/p-rydGeXKH8?si=Q2fes6bxd6fHvNSB");
