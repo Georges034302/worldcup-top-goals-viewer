@@ -1,21 +1,21 @@
 $(function () {
     $("#1966-link").click(function () {
-        $("#Display-frame").attr("src", "https://youtu.be/p-rydGeXKH8?si=OwtQVjbpxzNc51Aj");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/p-rydGeXKH8?si=Q2fes6bxd6fHvNSB");
     });
     $("#1970-link").click(function () {
-        $("#Display-frame").attr("src", "");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/zW5K0n-zuzc?si=1HFuSPEznYD6SpO_");
     });
     $("#1974-link").click(function () {
-        $("#Display-frame").attr("src", "");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/OQ0zG6a2bWg?si=7_dmiuj6kgQFGrd0");
     });
     $("#1978-link").click(function () {
-        $("#Display-frame").attr("src", "");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/lVDcxSlqU_0?si=0AVOM2tfga8j_DSS");
     });
     $("#1982-link").click(function () {
-        $("#Display-frame").attr("src", "");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/t3wGVv65rdw?si=8nMErYdUXfXlAtB1");
     });
     $("#1986-link").click(function () {
-        $("#Display-frame").attr("src", "");
+        $("#Display-frame").attr("src", "https://www.youtube.com/embed/T8y7DgY_wNg?si=SPcMDCs3fkrNGjDy");
     });
     $("#1990-link").click(function () {
         $("#Display-frame").attr("src", "https://www.youtube.com/embed/ZrInldACPRc?si=AAVNdWR8QIFXtMaV");
