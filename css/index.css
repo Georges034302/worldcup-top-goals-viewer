@@ -40,7 +40,7 @@ body {
 }
 
 .video-frame iframe {
-    width: 80vh; /* Allow the width to adjust based on height */
+    width: 70vh; /* Allow the width to adjust based on height */
     height: 55vh; /* Height based on viewport height */
     max-width: 100%; /* Ensure it doesn't exceed the container's width */
     border: none;
